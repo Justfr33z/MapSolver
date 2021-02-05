@@ -1,8 +1,8 @@
-# MapSolver
+# mapsolver
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Justfr33z/MapSolver/blob/main/LICENSE.md)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Justfr33z/mapsolver/blob/main/LICENSE.md)
 
-MapSolver is a simple Minebot plugin that solves map captchas using anti-captcha.
+mapsolver is a simple Minebot plugin that solves map captchas using anti-captcha.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
